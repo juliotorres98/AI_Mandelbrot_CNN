@@ -1,0 +1,7 @@
+Final Training Metrics:
+Loss: 0.0800
+MAE: 0.1867
+
+Final Validation Metrics:
+Validation Loss: 0.1974
+Validation MAE: 0.3359
